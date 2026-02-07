@@ -32,6 +32,6 @@ I build **scalable BI dashboards** using Power BI & SQL, develop **end-to-end ML
 ![](https://github-profile-trophy.vercel.app/?username=mohamedabdeenm7&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-![Visitor Count](https://api.countapi.xyz/hit/mohamedabdeenm7/visits)
+![Visitor Count](https://countapi.xyz/hit/mohamedabdeenm7/visits/?label=visits&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
