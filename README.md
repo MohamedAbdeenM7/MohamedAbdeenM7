@@ -5,8 +5,6 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mohamedabdenm7&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mohamedabdenm7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdeen-m7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:Mohamed.abden.m7@outlook.com)
 
 </div>
 
