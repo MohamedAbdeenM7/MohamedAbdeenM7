@@ -47,7 +47,7 @@ I build **scalable BI dashboards** using Power BI & SQL, develop **end-to-end ML
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 
