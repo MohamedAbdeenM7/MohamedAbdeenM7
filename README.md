@@ -50,9 +50,3 @@
 
 
 ---
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mohamedabdenm7/mohamedabdenm7/output/snake-dark.svg" alt="Snake animation" />
-</div>
