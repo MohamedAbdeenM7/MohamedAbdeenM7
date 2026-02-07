@@ -38,7 +38,10 @@ I build **scalable BI dashboards** using Power BI & SQL, develop **end-to-end ML
 
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-%234B8BBE.svg?style=plastic&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%2314354C.svg?style=plastic&logo=python&logoColor=white)
 
+![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=plastic&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
